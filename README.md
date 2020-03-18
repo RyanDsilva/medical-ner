@@ -1,2 +1,3 @@
-# medical-ner
-Clinical NER with UMLS lookup
+# Medical NER with UMLS Lookup 👨‍⚕🏥
+
+&copy; 2020 Ryan Dsilva
