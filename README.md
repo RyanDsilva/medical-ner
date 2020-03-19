@@ -37,8 +37,8 @@ A viral disorder characterized by SARS (Severe Acute Respiratory Syndrome)-like 
 
 ## Flutter Application 📱
 
-<img src="./images/home.jpg" width="250"/>
-<img src="./images/query.jpg" width="240"/>
-<img src="./images/result.jpg" width="250"/>
+<img style="display:inline;" src="./images/home.jpg" width="250"/>
+<img style="display:inline;" src="./images/query.jpg" width="240"/>
+<img style="display:inline;" src="./images/result.jpg" width="250"/>
 
 &copy; 2020 Ryan Dsilva
