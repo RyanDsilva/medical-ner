@@ -1,4 +1,8 @@
-# Medical NER with UMLS Lookup 👨‍⚕🏥
+# 🏥 Medical Assistant 🏥
+
+![Icon](./images/icon.png)
+
+**_Simplify those complicated medical terms!_**
 
 ## Setup
 
@@ -30,5 +34,7 @@ A viral disorder characterized by SARS (Severe Acute Respiratory Syndrome)-like 
 ## Flutter Application 📱
 
 > ### DoctorX 👨‍⚕
+
+![HomeScreen](./images/home.jpg)
 
 &copy; 2020 Ryan Dsilva

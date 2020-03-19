@@ -12,6 +12,8 @@ dependencies:
   dio: ^3.0.9
   provider: ^4.0.4
   flushbar: ^1.9.1
+  firebase_ml_vision: ^0.9.3+8
+  flutter_screenutil: ^1.1.0
 
 dev_dependencies:
   flutter_test:
@@ -19,5 +21,28 @@ dev_dependencies:
   flutter_launcher_icons: ^0.7.4
   flutter_native_splash: ^0.1.9
 
+flutter_icons:
+  android: "ic_launcher"
+  ios: true
+  image_path: "assets/icon.png"
+
+flutter_native_splash:
+  image: assets/icon.png
+  color: "#000000"
+
 flutter:
   uses-material-design: true
+  assets:
+    - assets/icon.png
+    - assets/doc.png
+    - assets/med.png
+    - assets/virus.png
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins400.ttf
+          weight: 400
+        - asset: assets/fonts/Poppins100.ttf
+          weight: 100
+        - asset: assets/fonts/Poppins700.ttf
+          weight: 700
