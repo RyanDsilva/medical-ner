@@ -9,7 +9,7 @@ python app.py
 
 ## Example Results
 
-```md
+```
 **Text**
 Ibuprofen is good for all kinds of fever and pain. It has known to cure MERS symptoms.
 
