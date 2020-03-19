@@ -1,8 +1,12 @@
 # 🏥 Medical Assistant 🏥
 
-![Icon](./images/icon.png)
+<div style="text-align:center;">
+
+<img src="./images/icon.png" width="150"/>
 
 **_Simplify those complicated medical terms!_**
+
+</div>
 
 ## Setup
 
@@ -33,8 +37,6 @@ A viral disorder characterized by SARS (Severe Acute Respiratory Syndrome)-like 
 
 ## Flutter Application 📱
 
-> ### DoctorX 👨‍⚕
-
-![HomeScreen](./images/home.jpg)
+<img src="./images/home.jpg" width="250"/>
 
 &copy; 2020 Ryan Dsilva
