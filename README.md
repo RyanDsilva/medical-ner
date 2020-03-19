@@ -6,6 +6,8 @@
 
 **_Simplify those complicated medical terms!_**
 
+&copy; 2020 Ryan Dsilva
+
 </div>
 
 ## Setup
@@ -40,7 +42,3 @@ A viral disorder characterized by SARS (Severe Acute Respiratory Syndrome)-like 
 <img align="left" src="./images/home.jpg" width="250"/>
 <img align="left" src="./images/query.jpg" width="240"/>
 <img align="left" src="./images/result.jpg" width="250"/>
-
----
-
-&copy; 2020 Ryan Dsilva
