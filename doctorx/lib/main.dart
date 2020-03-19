@@ -11,7 +11,7 @@ class DoctorX extends StatelessWidget {
     return MaterialApp(
       title: 'DoctorX',
       debugShowCheckedModeBanner: false,
-      initialRoute: 'query',
+      initialRoute: '/',
       theme: ThemeData(
         primaryColor: Colors.black,
         accentColor: Colors.lightBlueAccent,

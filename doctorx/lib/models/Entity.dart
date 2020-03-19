@@ -1,16 +1,16 @@
 class Entity {
   String _name;
-  String _type;
+  int _type;
   String _description;
 
-  Entity({String name, String type, String description}) {
+  Entity({String name, int type, String description}) {
     this._name = name;
     this._type = type;
     this._description = description;
   }
 
   String get name => _name;
-  String get type => _type;
+  int get type => _type;
   String get description => _description;
 
   Entity.fromJson(Map<String, dynamic> json) {

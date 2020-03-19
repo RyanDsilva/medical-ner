@@ -144,7 +144,7 @@ class _QueryPageState extends State<QueryPage> {
                     buttonBoxShadow: true,
                     enableFeedback: true,
                     size: GFSize.LARGE,
-                    onPressed: () => {},
+                    onPressed: () => Navigator.of(context).pushNamed('result'),
                     text: "Submit Query",
                     textStyle: TextStyle(
                       fontFamily: 'Poppins',
