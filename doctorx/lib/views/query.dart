@@ -1,6 +1,5 @@
 import 'dart:io';
 import 'package:firebase_ml_vision/firebase_ml_vision.dart';
-import 'package:flushbar/flushbar.dart';
 import 'package:flushbar/flushbar_helper.dart';
 import 'package:flushbar/flushbar_route.dart';
 import 'package:flutter/material.dart';
