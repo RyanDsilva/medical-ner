@@ -1,0 +1,15 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+scispacy = "*"
+spacy = "*"
+flask = "*"
+en-ner-bc5cdr-md = {file = "https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.2.4/en_ner_bc5cdr_md-0.2.4.tar.gz"}
+
+[requires]
+python_version = "3.7"
