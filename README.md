@@ -46,4 +46,4 @@ A viral disorder characterized by SARS (Severe Acute Respiratory Syndrome)-like 
 
 ## Contributing
 
-Raise and issue and submit a PR with the feature implementation. If it does not break anything, it's almost guaranteed to be merged. Let's make this into a great project!
+Raise an issue and submit a PR with the feature implementation. If it does not break anything, it's almost guaranteed to be merged. Let's make this into a great project!
