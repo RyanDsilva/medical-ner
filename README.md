@@ -42,3 +42,8 @@ A viral disorder characterized by SARS (Severe Acute Respiratory Syndrome)-like 
 <img align="left" src="./images/home.jpg" width="250"/>
 <img align="left" src="./images/query.jpg" width="240"/>
 <img align="left" src="./images/result.jpg" width="250"/>
+
+
+## Contributing
+
+Raise and issue and submit a PR with the feature implementation. If it does not break anything, it's almost guaranteed to be merged. Let's make this into a great project!
