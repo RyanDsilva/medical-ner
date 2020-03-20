@@ -1,6 +1,6 @@
 # 🏥 Medical Assistant 🏥
 
-<div style="text-align:center;">
+<p align="middle">
 
 <img src="./images/icon.png" width="175"/>
 
@@ -8,7 +8,7 @@
 
 &copy; 2020 Ryan Dsilva
 
-</div>
+</p>
 
 ## Setup
 
@@ -38,11 +38,11 @@ A viral disorder characterized by SARS (Severe Acute Respiratory Syndrome)-like 
 ```
 
 ## Flutter Application 📱
-
-<img align="left" src="./images/home.jpg" width="250"/>
-<img align="left" src="./images/query.jpg" width="240"/>
-<img align="left" src="./images/result.jpg" width="250"/>
-
+<p float="middle">
+  <img src="./images/home.jpg" width="260"/>
+  <img src="./images/query.jpg" width="250"/>
+  <img src="./images/result.jpg" width="260"/>
+</p>
 
 ## Contributing
 
